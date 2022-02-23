@@ -6,20 +6,20 @@
 #### * [写在前面](https://github.com/ShanDanYiZhong/Shandan-Yizhong-Experience-Sticker#写在前面)
 #### * [经验贴汇总](https://github.com/ShanDanYiZhong/Shandan-Yizhong-Experience-Sticker#经验贴汇总)
 #### * [写在后面](https://github.com/ShanDanYiZhong/Shandan-Yizhong-Experience-Sticker#写在后面)
+<br>
+<br>
 
 一些帮助
 ---------------
 * 手机端似乎没办法通过文件夹打开文件,因此如果是手机端，请直接打开如`语文`，`数学`之类的二级标签标签而非打开`各科学习心得`等一级标签<br>
-* 想提供经验和帮助，却不知道途径
-* * 如果您能够使用github，可以通过发表issues或进行pull requests直接进行修改
-* * 如果您不方便使用github，可以联系    qq:`1350407357`反馈意见或提供帮助
+* > 想提供经验和帮助，却不知道途径
+  >> 如果您能够使用github，可以通过发表issues或进行pull requests直接进行修改
+  >> 如果您不方便使用github，可以联系    qq:`1350407357`反馈意见或提供帮助
 <br>
 <br>
 
 写在前面
 ----------
-
-
 
 为了一中各位学子能更好度过高中生活，这里打算整理并且汇总一些往届同学的经验<br>包括且不限于`高考文理科科目和笔记`、`时间管理`、`情绪心态调节`等大家比较关心的问题<br><br>
 `“三人行，必有我师焉。”`除了向身边优秀的同学学习，借鉴一下已经在这条路上取得一定成就的前人的经验也是很好的学习途径。把它们分享出来，无关对与错，只是给大家一些参考。
@@ -31,6 +31,7 @@
 <br>
  对于不同的学科，谁都有自己的理解，但是个性化的理解中可能包含着一些共性的东西。高考是一个方向，备战高考的过程也是不断学习、提高自己的过程，可以去不断地调整和优化，以期达到自己的比较好的状态。
 <br>
+<br> 
 
 经验贴汇总
 -------------
@@ -51,7 +52,8 @@
 >>[关于错题笔记](https://github.com/ShanDanYiZhong/Shandan-Yizhong-Experience-Sticker/blob/main/其他帮助与心得/关于错题笔记.md)<br>
 >>[如何调节情绪和心态](https://github.com/ShanDanYiZhong/Shandan-Yizhong-Experience-Sticker/blob/main/其他帮助与心得/如何调节情绪和心态.md)<br>
 
-
+<br>
+<br>
 
 写在后面
 =================
