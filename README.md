@@ -18,7 +18,7 @@
 经验贴汇总
 -------------
 >[各科学习心得](https://github.com/ShanDanYiZhong/Shandan-Yizhong-Experience-Sticker/tree/main/%E5%90%84%E7%A7%91%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97)
->>语文<br>
+>>[语文](https://github.com/ShanDanYiZhong/Shandan-Yizhong-Experience-Sticker/blob/main/%E5%90%84%E7%A7%91%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97/%E8%AF%AD%E6%96%87.md)<br>
 >>数学<br>
 >>英语<br>
 >>物理<br>
