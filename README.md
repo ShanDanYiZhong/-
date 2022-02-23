@@ -14,7 +14,7 @@
  `对于不同的学科，谁都有自己的理解，但是个性化的理解中可能包含着一些共性的东西。高考是一个方向，备战高考的过程也是不断学习、提高自己的过程，可以去不断地调整和优化，以期达到自己的比较好的状态。`
 <br>
 
-`经验贴汇总`
+经验贴汇总
 -------------
 >[`各科学习心得` ](https://github.com/ShanDanYiZhong/Shandan-Yizhong-Experience-Sticker/tree/main/%E5%90%84%E7%A7%91%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97)
 >>[`语文`](https://github.com/ShanDanYiZhong/Shandan-Yizhong-Experience-Sticker/blob/main/%E5%90%84%E7%A7%91%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97/%E8%AF%AD%E6%96%87.md)<br>
