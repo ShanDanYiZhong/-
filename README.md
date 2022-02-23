@@ -22,6 +22,7 @@
 <br>
  `笔记和资料只是工具，为我所用，学得更好才是目的。`
 <br>
+<br>
  对于不同的学科，谁都有自己的理解，但是个性化的理解中可能包含着一些共性的东西。高考是一个方向，备战高考的过程也是不断学习、提高自己的过程，可以去不断地调整和优化，以期达到自己的比较好的状态。
 <br>
 
@@ -48,6 +49,6 @@
 
 写在后面
 =================
-特别感谢参与分享的学长学姐们。让我们一道把光传得更远！<br>
-[`帮助者名单`](https://github.com/ShanDanYiZhong/Shandan-Yizhong-Experience-Sticker/blob/main/helper.md)<br>
-同时感谢 qq群`山一中高考大学交流咨询群`(qq群号`641080603`)提供的帮助
+### 特别感谢参与分享的学长学姐们。让我们一道把光传得更远！<br>
+### [`帮助者名单`](https://github.com/ShanDanYiZhong/Shandan-Yizhong-Experience-Sticker/blob/main/helper.md)<br>
+### 同时感谢 qq群`山一中高考大学交流咨询群`(qq群号`641080603`)提供的帮助
