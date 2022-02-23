@@ -42,3 +42,9 @@
 >>[关于错题笔记](https://github.com/ShanDanYiZhong/Shandan-Yizhong-Experience-Sticker/blob/main/其他帮助与心得/关于错题笔记)<br>
 >>[如何调节情绪和心态](https://github.com/ShanDanYiZhong/Shandan-Yizhong-Experience-Sticker/blob/main/其他帮助与心得/如何调节情绪和心态)<br>
 
+
+
+写在后面
+=================
+特别感谢参与分享的学长学姐们。让我们一道把光传得更远！
+[`帮助者名单`](https://github.com/ShanDanYiZhong/Shandan-Yizhong-Experience-Sticker/blob/main/helper.md)
