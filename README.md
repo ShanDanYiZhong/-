@@ -1,6 +1,10 @@
 山丹一中历届经验贴汇总
 ======================
 
+一些帮助
+---------------
+* 手机端似乎没办法通过文件夹打开文件,因此如果是手机端，请直接打开如`语文`，`数学`之类的二级标签标签而非打开`各科学习心得`等一级标签
+
 写在前面
 ----------
 
@@ -27,7 +31,7 @@
 >>[政治](https://github.com/ShanDanYiZhong/Shandan-Yizhong-Experience-Sticker/blob/main/%E5%90%84%E7%A7%91%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97/政治.md)<br>
 >>[地理](https://github.com/ShanDanYiZhong/Shandan-Yizhong-Experience-Sticker/blob/main/%E5%90%84%E7%A7%91%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97/地理.md)<br>
 
->其他帮助与心得
->>时间管理<br>
->>关于错题笔记<br>
->>如何调节情绪和心态<br>
+>[其他帮助与心得](https://github.com/ShanDanYiZhong/Shandan-Yizhong-Experience-Sticker/blob/main/其他帮助与心得)
+>>[时间管理](https://github.com/ShanDanYiZhong/Shandan-Yizhong-Experience-Sticker/blob/main/其他帮助与心得/时间管理)<br>
+>>[关于错题笔记](https://github.com/ShanDanYiZhong/Shandan-Yizhong-Experience-Sticker/blob/main/其他帮助与心得/关于错题笔记)<br>
+>>[如何调节情绪和心态](https://github.com/ShanDanYiZhong/Shandan-Yizhong-Experience-Sticker/blob/main/其他帮助与心得/如何调节情绪和心态)<br>
