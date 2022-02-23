@@ -18,14 +18,14 @@
 -------------
 >[各科学习心得 ](https://github.com/ShanDanYiZhong/Shandan-Yizhong-Experience-Sticker/tree/main/%E5%90%84%E7%A7%91%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97)
 >>[语文](https://github.com/ShanDanYiZhong/Shandan-Yizhong-Experience-Sticker/blob/main/%E5%90%84%E7%A7%91%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97/%E8%AF%AD%E6%96%87.md)<br>
->>数学<br>
->>英语<br>
->>物理<br>
->>化学<br>
->>生物<br>
->>历史<br>
->>政治<br>
->>地理<br>
+>>[数学](https://github.com/ShanDanYiZhong/Shandan-Yizhong-Experience-Sticker/blob/main/%E5%90%84%E7%A7%91%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97/数学.md)<br>
+>>[英语](https://github.com/ShanDanYiZhong/Shandan-Yizhong-Experience-Sticker/blob/main/%E5%90%84%E7%A7%91%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97/英语.md)<br>
+>>[物理](https://github.com/ShanDanYiZhong/Shandan-Yizhong-Experience-Sticker/blob/main/%E5%90%84%E7%A7%91%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97/物理.md)<br>
+>>[化学](https://github.com/ShanDanYiZhong/Shandan-Yizhong-Experience-Sticker/blob/main/%E5%90%84%E7%A7%91%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97/化学.md)<br>
+>>[生物](https://github.com/ShanDanYiZhong/Shandan-Yizhong-Experience-Sticker/blob/main/%E5%90%84%E7%A7%91%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97/生物.md)<br>
+>>[历史](https://github.com/ShanDanYiZhong/Shandan-Yizhong-Experience-Sticker/blob/main/%E5%90%84%E7%A7%91%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97/历史.md)<br>
+>>[政治](https://github.com/ShanDanYiZhong/Shandan-Yizhong-Experience-Sticker/blob/main/%E5%90%84%E7%A7%91%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97/政治.md)<br>
+>>[地理](https://github.com/ShanDanYiZhong/Shandan-Yizhong-Experience-Sticker/blob/main/%E5%90%84%E7%A7%91%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97/地理.md)<br>
 
 >其他帮助与心得
 >>时间管理<br>
