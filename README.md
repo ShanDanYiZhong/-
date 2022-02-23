@@ -46,5 +46,5 @@
 
 写在后面
 =================
-特别感谢参与分享的学长学姐们。让我们一道把光传得更远！
+特别感谢参与分享的学长学姐们。让我们一道把光传得更远！<br>
 [`帮助者名单`](https://github.com/ShanDanYiZhong/Shandan-Yizhong-Experience-Sticker/blob/main/helper.md)
