@@ -67,4 +67,4 @@
 ### 特别感谢参与分享的学长学姐们。让我们一道把光传得更远！<br>
 ### [`帮助者名单`](https://github.com/ShanDanYiZhong/Shandan-Yizhong-Experience-Sticker/blob/main/helper.md)<br>
 ### 同时感谢 qq群`山一中高考大学交流咨询群`(qq群号`641080603`)提供的帮助
-### 感谢 `杨怡`、 `张蓉` 同学收集的资料和经验汇总
+### 感谢 `杨怡`、 `张蓉` 的发起
