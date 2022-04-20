@@ -51,9 +51,10 @@
 >>[时间管理](https://github.com/ShanDanYiZhong/Shandan-Yizhong-Experience-Sticker/blob/main/其他帮助与心得/时间管理.md)<br>
 >>[关于错题笔记](https://github.com/ShanDanYiZhong/Shandan-Yizhong-Experience-Sticker/blob/main/其他帮助与心得/关于错题笔记.md)<br>
 >>[如何调节情绪和心态](https://github.com/ShanDanYiZhong/Shandan-Yizhong-Experience-Sticker/blob/main/其他帮助与心得/如何调节情绪和心态.md)<br>
->[参考文件](https://github.com/ShanDanYiZhong/Shandan-Yizhong-Experience-Sticker/tree/main/参考性文件)
->>[文科录取线](https://github.com/ShanDanYiZhong/Shandan-Yizhong-Experience-Sticker/tree/main/参考性文件/甘肃文科录取分数表.csv)
->>[理科录取线](https://github.com/ShanDanYiZhong/Shandan-Yizhong-Experience-Sticker/tree/main/参考性文件/甘肃理科录取分数表.csv)
+
+>[参考文件](https://github.com/ShanDanYiZhong/Shandan-Yizhong-Experience-Sticker/tree/main/参考性文件)<br>
+>>[文科录取线](https://github.com/ShanDanYiZhong/Shandan-Yizhong-Experience-Sticker/tree/main/参考性文件/甘肃文科录取分数表.csv)<br>
+>>[理科录取线](https://github.com/ShanDanYiZhong/Shandan-Yizhong-Experience-Sticker/tree/main/参考性文件/甘肃理科录取分数表.csv)<br>
 
 <br>
 <br>
